@@ -4,8 +4,8 @@ Projeto integrador do curso de **Analise e Desenvolvimento de Sistemas** sobre a
 
 A documentação do projeto está organizada nos seguintes arquivos:
 
-- [Características do projeto](docs/caracteristicas.md)
+- [Características do projeto](docs/tecnologias-e-ambiente.md)
 
-- [Apresentação do wireframe](docs/apresentacao.md)
+- [Apresentação do wireframe](docs/wireframes.md)
 
-- [Documentação dos métodos](docs/documentacao.md)
+- [Documentação dos métodos](docs/metodos-construcao-blocos.md)
